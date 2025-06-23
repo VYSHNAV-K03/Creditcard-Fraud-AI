@@ -1,0 +1,7 @@
+.bg-custom {
+  background-image: url('');
+  background-color: red !important; 
+  background-size: cover; /* Adjusts how the image is scaled */
+  background-position: center; /* Centers the image */
+  background-repeat: no-repeat; /* Prevents repetition */
+}
